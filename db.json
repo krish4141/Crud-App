@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Krishna Shinde",
+      "username": "Krish414",
+      "email": "Krishna@gmail.com",
+      "phone": "7972433772",
+      "address": "Hudco,Nanded-431708"
+    },
+    {
+      "id": 4,
+      "name": "ravina shinde",
+      "username": "ravina4141",
+      "email": "ravina@gmail.com",
+      "phone": "7972433988",
+      "address": "Hudco,pune-431708"
+    },
+    {
+      "name": "ramu",
+      "username": "ramu321",
+      "email": "ramu321@gmail.com",
+      "phone": "3467568767",
+      "address": "Bombay",
+      "id": 6
+    },
+    {
+      "name": "raju",
+      "username": "raju456",
+      "email": "raju45@gmail.com",
+      "phone": "3121456787",
+      "address": "Latur",
+      "id": 7
+    },
+    {
+      "name": "bunny",
+      "username": "potter",
+      "email": "bunny98@gmail.com",
+      "phone": "5679875678",
+      "address": "Banglore",
+      "id": 8
+    }
+  ]
+}
